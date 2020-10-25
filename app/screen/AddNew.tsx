@@ -89,7 +89,7 @@ const AddNewScreen = () => {
           color:'#000', alignSelf:'center'}}>s</Text>
         </View>
 
-        {/* <View style={{flexDirection: 'row' , justifyContent:'space-around', marginVertical: 5}}>
+        <View style={{flexDirection: 'row' , justifyContent:'space-around', marginVertical: 5}}>
                 <Text style={{backgroundColor: 'green',
           marginRight: 32,
           padding:3,
@@ -110,8 +110,8 @@ const AddNewScreen = () => {
           marginRight: 30,
           padding:3,
           color:'#000', alignSelf:'center'}}>s</Text>
-        </View> */}
-        {/* <View style={{flexDirection: 'row' , justifyContent:'space-around', marginVertical: 5}}>
+        </View>
+        <View style={{flexDirection: 'row' , justifyContent:'space-around', marginVertical: 5}}>
                 <Text style={{backgroundColor: 'purple',
           marginRight: 30,
           padding:3,
@@ -132,8 +132,8 @@ const AddNewScreen = () => {
           marginRight: 30,
           padding:3,
           color:'#000', alignSelf:'center'}}>s</Text>
-        </View> */}
-        {/* <View style={{flexDirection: 'row' , justifyContent:'space-around', marginVertical: 5}}>
+        </View>
+        <View style={{flexDirection: 'row' , justifyContent:'space-around', marginVertical: 5}}>
                 <Text style={{backgroundColor: 'brown',
           marginRight: 30,
           padding:3,
@@ -154,7 +154,7 @@ const AddNewScreen = () => {
           marginRight: 30,
           padding:3,
           color:'#000', alignSelf:'center'}}>s</Text>
-        </View> */}
+        </View>
            </View>
        </View>
     </SafeAreaView>
