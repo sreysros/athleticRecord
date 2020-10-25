@@ -1,0 +1,6 @@
+module Pods_athleticRecord_athleticRecordTests {
+  umbrella header "Pods-athleticRecord-athleticRecordTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
